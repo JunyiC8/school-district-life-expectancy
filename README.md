@@ -47,6 +47,7 @@ All output CSVs are saved in the **same folder as the notebook**.
 
 * Block-level master table (BLOCKID, TRACTID, POP10, district IDs, USALEEP variables)
 * School-district–level life expectancy dataset (population-weighted aggregates)
+* Summary tables and visualizations
 
 ## Reproducibility
 
