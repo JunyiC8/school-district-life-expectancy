@@ -41,7 +41,7 @@ Packages: pandas, numpy, tqdm, requests, dbfread, glob, os, geopandas, matplotli
    * Assign tract life expectancy to blocks
    * Aggregate block-level values to school districts using population weights
 
-All output CSVs are saved in the **same folder as the notebook**.
+All output CSVs are saved in the **Data_output or same folder as the notebook**.
 
 ## Outputs
 
